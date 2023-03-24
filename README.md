@@ -1,2 +1,1 @@
-# lab7-1
-# Khushi, Vidhya, Vandana, Mohit
+# lab7-1 experiment
